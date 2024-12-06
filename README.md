@@ -15,7 +15,7 @@ Our goal with this modification and enhancement is to make this open-source syri
 ## Usage
 
 ### Instructions
-This Repository provides documentation on how to build the pumps and the controller. Just [follow the instructions here](https://librehub.github.io/syringe-pumps-and-controller/). 
+This Repository provides documentation on how to build the pumps and the controller. Just [follow the instructions here](https://wenzel-lab.github.io/syringe-pumps-and-controller/)
 
 This project is documented with GitBuilding - an Open Source project for documenting hardware projects. For more information on the GitBuilding project or how
 to install GitBuilding, please see the [GitBuilding website](http://gitbuilding.io)
@@ -26,7 +26,7 @@ to install GitBuilding, please see the [GitBuilding website](http://gitbuilding.
     * [Link to OnShape CAD files of printable syringe pump parts](https://cad.onshape.com/documents/20c077b452e92115525d4fed/w/71118f46b0924c1bb22b1150/e/9d30ca00efa721d242d78d3f?renderMode=0&uiState=64bd5f2a8bef574246b008b9)
     * [Link to OnShape CAD files of the printable controller enclosure](https://cad.onshape.com/documents/24a5022fafc4edd0c24874dd/w/35c6569cda7c2fa4439727d4/e/9dbcdcaba091e21e6a91c62c?renderMode=0&uiState=64bd5f3f0aa451311c1bb6ad)
 * Software source code
-    * [Code to upload onto the Raspberry Pi Pico controller](https://github.com/LIBREhub/syringe-pumps-and-controller/blob/docu-v1/software/firmwareV1.ino)
+    * [Code to upload onto the Raspberry Pi Pico controller](https://github.com/wenzel-lab/syringe-pumps-and-controller/blob/docu-v1/software/firmwareV1.ino)
 
 ### How do I edit the documentation?
 
