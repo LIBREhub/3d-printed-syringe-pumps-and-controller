@@ -1,0 +1,7 @@
+V1.0.0
+Cosas que corregir:
+	- Los pines SDA y SCL estan invertidos en el componente U3 (PCA955P)
+	- Los conectores J11 y J12 del display y del key oad deben correrse para no estorbar el usb
+	
+ 
+ 

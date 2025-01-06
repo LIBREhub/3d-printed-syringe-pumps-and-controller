@@ -1,0 +1,20 @@
+Convert main.ui to main.py use:
+pyuic5 -x EQ_VS.ui -o gui.py
+or
+python3 -m PyQt5.uic.pyuic -x [FILENAME].ui -o [FILENAME].py
+
+convert to exe
+pyinstaller --onefile --windowed EQ_main.py
+
+
+teperaturas objetivos entre 20 y 30 ph entre 0 y 14 O2D entre 0 y 9 ppm. aireación vvm volumen de aire por volumen de líquido por minuto
+incrementos de 0.5.
+
+
+VVM  =  Volumen en litros por minuto / Volumen del recipiente
+
+
+link
+https://medium.com/@SrvZ/how-to-create-stunning-graphs-in-the-terminal-with-python-2adf9d012131
+https://www.pythonguis.com/tutorials/pyside6-embed-pyqtgraph-custom-widgets/
+https://www.pythonguis.com/tutorials/plotting-pyqtgraph/

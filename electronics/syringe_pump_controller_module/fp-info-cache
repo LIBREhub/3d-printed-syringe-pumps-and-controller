@@ -1,4 +1,4 @@
-24000372941861631
+24010759055476084
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63308,6 +63308,13 @@ Integrated Circuit
 6
 6
 IoWLabs
+DO - 216
+
+
+0
+2
+2
+IoWLabs
 EEEFK0J133SM
 SMD_Lytic_K21
 Capacitor Polarised
@@ -63482,6 +63489,20 @@ SSOP-24
 0
 25
 24
+IoWLabs
+SW-SPST-STMJ
+
+
+0
+2
+2
+IoWLabs
+SW_DPDT
+
+
+0
+6
+6
 IoWLabs
 TO-263-3 TAB 3
 
@@ -64071,6 +64092,13 @@ larata_logo
 0
 0
 IoWLabsLogos
+ligth
+
+
+0
+0
+0
+IoWLabsLogos
 logo_tami_13x13
 
 
@@ -64086,6 +64114,20 @@ mimictest
 0
 IoWLabsLogos
 moebius_1
+
+
+0
+0
+0
+IoWLabsLogos
+moebius_2
+
+
+0
+0
+0
+IoWLabsLogos
+moebius_3
 
 
 0
